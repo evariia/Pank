@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CV – Andmebaasi Disainer ja Haldur</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            border-bottom: 2px solid #0055a5;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+        }
+        h1 {
+            color: #0055a5;
+            margin: 0;
+        }
+        h2 {
+            color: #004080;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+        section {
+            margin-bottom: 20px;
+            background: #fff;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.05);
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        .contact-info p {
+            margin: 3px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Eesnimi Perekonnanimi</h1>
+        <div class="contact-info">
+            <p>Email: eesnimi.perekonnanimi@email.com</p>
+            <p>Telefon: +372 5555 5555</p>
+            <p>Asukoht: Tallinn, Eesti</p>
+            <p>LinkedIn: linkedin.com/in/eesnimi-perekonnanimi</p>
+        </div>
+    </header>
+
+    <section>
+        <h2>Profiil</h2>
+        <p>Kogenud andmebaaside disainer ja haldur, kellel on tugev taust relatsiooniliste andmebaaside projekteerimises, andmetöötluses ja analüüsis. Oskan luua ja hallata andmemudeleid ning andmebaasi arhitektuuri, tagades andmete korrektsuse ja turvalisuse. Hea suhtleja ja meeskonnatööle orienteeritud spetsialist, kes soovib panustada Eesti Panga ja Euroopa Keskpankade Süsteemi andmekorralduse arendamisse.</p>
+    </section>
+
+    <section>
+        <h2>Töökogemus</h2>
+        <h3>Andmebaasi Disainer ja Haldur</h3>
+        <p><em>Ettevõte OÜ, Tallinn</em> | 01/2021 – praegune</p>
+        <ul>
+            <li>Disainisin ja haldasin relatsioonilisi andmebaase, sealhulgas kasutusõiguste haldust.</li>
+            <li>Kujundasin ja hooldasin andmemudeleid ning arhitektuuri vastavalt äri- ja tehnilistele nõuetele.</li>
+            <li>Arendasin ja haldasin andmetöötlusahelaid: andmete eeltöötlus, puhastamine, SQL-päringud ja andmebaasiprotseduurid.</li>
+            <li>Tagasin andmekorralduse ja andmeedastuste tehniliste nõuete täitmise.</li>
+            <li>Osalesin infosüsteemide arendusprojektides ning panustasin andmekorralduse parendamisse.</li>
+        </ul>
+
+        <h3>Andmeanalüütik</h3>
+        <p><em>IT Lahendused AS, Tallinn</em> | 06/2019 – 12/2020</p>
+        <ul>
+            <li>Rakendasin SQLi ja andmeanalüüsi tööriistu suurte andmekogumite töötlemiseks.</li>
+            <li>Toetasin andmete kogumist ja edastamist veebiteenuste ja ETL-protsesside kaudu.</li>
+            <li>Koostasin aruandeid ja visualiseeringuid andmete põhjal.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Haridus</h2>
+        <p><strong>Informaatika bakalaureus</strong></p>
+        <p>Tallinna Tehnikaülikool, 2015 – 2018</p>
+    </section>
+
+    <section>
+        <h2>Oskused</h2>
+        <ul>
+            <li>Relatsiooniliste andmebaaside projekteerimine ja haldamine</li>
+            <li>SQL, andmebaasiprotseduuride kirjutamine ja optimeerimine</li>
+            <li>Andmetöötlusahelate loomine ja haldamine (ETL, andmete puhastamine)</li>
+            <li>Andmeanalüüsi rakendused ja andmete visualiseerimine</li>
+            <li>Veebiteenused ja andmehõive tehnoloogiad</li>
+            <li>Programmeerimine (nt Python, JavaScript) – eelis</li>
+            <li>AI ja automatiseerimise võimaluste tundmine ja rakendamine</li>
+            <li>Suhtlemisoskus ja meeskonnatöö</li>
+            <li>Eesti ja inglise keel – kõrgtase nii kõnes kui kirjas</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Keeled</h2>
+        <ul>
+            <li>Eesti keel – emakeel</li>
+            <li>Inglise keel – kõrgtase</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Lisaandmed</h2>
+        <ul>
+            <li>Huvi majanduse ja IT-taristu arenduse vastu</li>
+            <li>Paindlik, innovaatiline ja pidevalt enesetäiendav</li>
+            <li>Soov panustada Eesti Panga ja Euroopa Keskpankade Süsteemi arengusse</li>
+        </ul>
+    </section>
+</body>
+</html>
