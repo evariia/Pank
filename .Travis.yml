@@ -1,3 +1,4 @@
 sudo: required services:
 - docker
-before_install:
+5 before_install:
+6 - docker build -t stephengrider/react-test -f .
